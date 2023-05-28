@@ -1,0 +1,30 @@
+.searchInput {
+  margin: 9px 13px;
+  width: 900px;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: whitesmoke;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.button {
+  outline: none;
+  border: none;
+  padding: 0 10px;
+  height: 45px;
+  position: relative;
+  left: 60px;
+  top: 10px;
+  background-color: unset;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}

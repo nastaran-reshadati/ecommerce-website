@@ -1,0 +1,19 @@
+.check {
+  background-color: rgb(224, 6, 6);
+  margin: 0 auto;
+  padding: 8px 2px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  cursor: pointer;
+  width: 80%;
+  transition:.3s all ease-out;
+  -webkit-transition:.3s all ease-out;
+  -moz-transition:.3s all ease-out;
+  -ms-transition:.3s all ease-out;
+  -o-transition:.3s all ease-out;
+}
+.check:hover {
+  background-color:  rgb(160, 0, 0);
+}

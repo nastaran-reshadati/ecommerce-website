@@ -1,0 +1,9 @@
+.outerContainer{
+    background-color: rgb(234, 234, 234);
+    height: 400px;
+    width: 80%;
+    margin: auto auto;
+}
+.mainContainer{
+    background-color: green;
+}

@@ -1,0 +1,23 @@
+.lable {
+  background-color: rgb(1, 169, 1);
+  text-align: center;
+  width: 80%;
+  padding: 8px 2px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  cursor: pointer;
+  transition: 0.3s all ease-out;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  -webkit-transition: 0.3s all ease-out;
+  -moz-transition: 0.3s all ease-out;
+  -ms-transition: 0.3s all ease-out;
+  -o-transition: 0.3s all ease-out;
+}
+.lable:hover {
+  background-color: rgb(0, 122, 0);
+}

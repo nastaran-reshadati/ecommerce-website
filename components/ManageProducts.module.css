@@ -1,0 +1,22 @@
+.lableContainer {
+  background-color: rgb(238, 238, 238);
+  border-radius: 15px;
+  width: 50%;
+  margin: 0 auto;
+  padding: 8px 2px;
+  margin: 20px auto;
+  width: 60%;
+  /* color: red; */
+  text-align: center;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.ShowAmountLable {
+  margin: 0 20px;
+  font-weight: bold;
+}
